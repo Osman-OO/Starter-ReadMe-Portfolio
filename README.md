@@ -1,4 +1,4 @@
-# Osman Abdullahi — Data Scientist
+# Osman Abdullahi — Aspiring Data Scientist (IN PROGRESS PORTFOLIO)
 
 Data scientist passionate about leveraging meaningful data-driven insights to improve lives, especially for underserved and neglected communities. I’m driven to create accessible, impactful analytical tools that empower people and bridge information gaps.
 
